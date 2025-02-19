@@ -1,6 +1,6 @@
 {
   "name": "geez-sort",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "geez-sort",
   "main": "geezSort.js",
   "scripts": {
