@@ -1,0 +1,15 @@
+{
+  "name": "geezsort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "geezSort.js",
+  "scripts": {
+    "test": "jest",
+    "start": "index"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
