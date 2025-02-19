@@ -10,3 +10,7 @@ GeezSort is a simple JavaScript library for sorting Amharic (Ge'ez script) words
 ## Installation
 ```sh
 npm install geez-sort
+
+## Usage 
+``` sh
+geezSort(["አንቀጽ","ማር","ሀለም","በረከት"]) = ["ሀለም", "ማር", "በረከት", "አንቀጽ"];

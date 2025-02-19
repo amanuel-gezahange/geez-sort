@@ -1,13 +1,13 @@
 {
-  "name": "geezsort",
-  "version": "1.0.0",
-  "description": "",
+  "name": "geez-sort",
+  "version": "1.0.1",
+  "description": "geez-sort",
   "main": "geezSort.js",
   "scripts": {
     "test": "jest",
     "start": "index"
   },
-  "author": "",
+  "author": "amanuel",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
