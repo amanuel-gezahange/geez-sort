@@ -1,4 +1,4 @@
-// testing geez-sort 
+// testing geez-sort-code 
 const geezSort = require("./geezSort");
 
 describe("geezSort Function", () => {
